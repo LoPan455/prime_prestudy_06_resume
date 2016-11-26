@@ -1,11 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Actor);
 
 body {
-    font-family: 'Actor';
-    color: #DCDCDC;    
+    font-family: 'Actor';      
     font-weight: 400;
     font-size: 16px;
     background: #4682B4;
-    text-align: center;
+    
 }
 
