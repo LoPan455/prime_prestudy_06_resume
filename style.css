@@ -9,7 +9,11 @@ body {
   
 h1 {
     color: #DCDCDC
+    text-align: center;
 }
 
-
+h2 {
+    color: #DCDCDC;
+    text-align: center; 
+}
 
