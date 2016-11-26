@@ -2,25 +2,19 @@
 
 body {
     font-family: 'Actor';
+    color: #DCDCDC;    
     font-weight: 400;
     font-size: 16px;
     background: #4682B4;
 }
   
 h1 {
-    color: #DCDCDC
+    
     text-align: center;
 }
 
 h2 {
-    color: #DCDCDC;
+    
     text-align: center; 
 }
 
-h3 { 
-    color: #DCDCDC;
-}
-
-h4 {
-    color:#DCDCDC;
-}
