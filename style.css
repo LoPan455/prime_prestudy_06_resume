@@ -16,20 +16,21 @@ hr {
     margin-right: 300px;
     border-style: inset;
     border-width: 1px;
-    color: #FF383F
+    color: #FF383F;
 }
 
 h1 {
-    color: #FF383F
+    color: #FF383F;
 }
 
 h2 {
     
-    background-color: #CAEBF2
+    background-color: #CAEBF2;
 }
 
 a {
-    background-color: #CAEBF2
-       /* color: #A9A9A9 */
+    background-color: #CAEBF2;
+    text-decoration: none;
+    color: #A9A9A9
         
 }
