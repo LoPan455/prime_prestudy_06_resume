@@ -28,9 +28,23 @@ h2 {
     background-color: #CAEBF2;
 }
 
-a {
+/* a {
     background-color: #CAEBF2;
     text-decoration: none;
-    /* color: #A9A9A9 */
+     /* color: #A9A9A9 
         
+} */ 
+
+
+a:link, a:visited {
+    background-color: #CAEBF2;
+    color: #A9A9A9;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #FF383F ;
 }
