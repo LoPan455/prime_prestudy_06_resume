@@ -1,3 +1,5 @@
-1.  Cleaned up section breaks with the <Section> and <header> tags
+1. Cleaned up section breaks with the <Section> and <header> tags
 2. Cleaned up the Parallax scrolling style tagging and moved it into the separate CSS file.
-3. changed my personal contact info into a an unordered list.
+3. Changed my personal contact info into a an unordered list.
+4. Edited the <header> tags and played around with the CSS centering code to get the Contact Info section centered using relative spacing, rather than hacking through it with absoulte spacing.
+5. Edited the h2 styling to extend the background color to the edge of the broswer
