@@ -1,13 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Actor);
-
 body {
     font-family: 'Actor';
     font-weight: 400;
     font-size: 16px;
     background: #EFEFEF;
-
 }
-
 hr {
     display: block;
     margin-top: 0.5em;
@@ -18,51 +15,13 @@ hr {
     border-width: 1px;
     color: #FF383F;
 }
-
 h1 {
     color: #FF383F;
     margin-right: 300px;
 }
-
 h2 {
     background-color: #CAEBF2;
     margin-right: 300px;
-}
-
-#parallax {
-    background-image: url("headshot.jpg");
-    height: 500px;
-    background-attachment: fixed;
-    background-position: top;
-    background-repeat: no-repeat;
-    background-size: 600px;
-
-}
-
-
-#logistics h1 {
-  text-align: center;
-  padding-left: 300px;
-}
-
-#logistics ul {
-  list-style-type: none;
-  margin: 0;
-
-  text-align: center;
-  overflow: hidden;
-
-}
-
-#logistics li {
-  float: left;
-  padding-left: 20px;
-}
-
-#objective h2 {
-  background-color: #CAEBF2;
-  margin-right: 300px;
-
 }
 a:link, a:visited {
     background-color: #CAEBF2;
@@ -71,7 +30,58 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
 }
-
 a:hover, a:active {
     background-color: #FF383F ;
+  }
+#parallax {
+    background-image: url("headshot.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 600px;
+}
+#contact-info {
+  text-align: justify;
+  margin: auto;
+  display: inline-block;
+  width: 100%;
+}
+#contact-info h1 {
+  text-align: center;
+  margin: 20px auto 20px auto;
+  font-size: 48px
+}
+#contact-info ul {
+  /* display: block; */
+  list-style-type: none;
+  margin: auto;
+  text-align: center;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+#contact-info li {
+  display: inline-block;
+}
+#objective h2 {
+  background-color: #CAEBF2;
+  margin: auto;
+}
+#skills-sumamry {
+}
+#skills-summary h2 {
+  background-color: #CAEBF2;
+  margin: auto;
+}
+#relevant-work-experience {
+}
+#relevant-work-experience h2 {
+  background-color: #CAEBF2;
+  margin: auto;
+}
+#education-and-certs{
+}
+#education-and-certs h2 {
+  background-color: #CAEBF2;
+  margin: auto;
 }
