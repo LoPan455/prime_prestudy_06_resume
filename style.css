@@ -1,10 +1,29 @@
 @import url(https://fonts.googleapis.com/css?family=Actor);
 body {
+
     font-family: 'Actor';
     font-weight: 400;
     font-size: 16px;
     background: #EFEFEF;
 }
+
+.resume {
+  visibility: hidden;
+
+}
+
+#reveal-button {
+  background-color: #CAEBF2;
+    border: none;
+    color: #FF383F
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    top: 400px
+}
+
 hr {
     display: block;
     margin-top: 0.5em;
@@ -53,7 +72,7 @@ a:hover, a:active {
   font-size: 48px
 }
 #contact-info ul {
-  /* display: block; */
+
   list-style-type: none;
   margin: auto;
   text-align: center;
@@ -67,19 +86,13 @@ a:hover, a:active {
   background-color: #CAEBF2;
   margin: auto;
 }
-#skills-sumamry {
-}
 #skills-summary h2 {
   background-color: #CAEBF2;
   margin: auto;
 }
-#relevant-work-experience {
-}
 #relevant-work-experience h2 {
   background-color: #CAEBF2;
   margin: auto;
-}
-#education-and-certs{
 }
 #education-and-certs h2 {
   background-color: #CAEBF2;
